@@ -1,0 +1,19 @@
+# Assignment 2: Continuous Integration with Azure DevOps
+#
+# TODO:
+# - trigger automatically on pushes to main
+# - use ubuntu-latest
+# - use Python 3.12
+# - install requirements.txt
+# - run the tests
+# - publish an artifact containing the application
+# - make the pipeline fail if tests fail
+
+trigger:
+  # TODO
+
+pool:
+  # TODO
+
+steps:
+  # TODO
