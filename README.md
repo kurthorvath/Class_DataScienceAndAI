@@ -1,6 +1,19 @@
-# Data Science and AI
+# Machine Learning Operations (MLOps) 
+<img width="800" height="162" alt="image" src="https://github.com/user-attachments/assets/d448f8ed-2df9-4a84-8f0c-b3dc19ec2867" />
 
-This repository contains the assignments for the **Data Science and AI** course.
+
+## Related Courses
+
+The material in this repository is used across two courses in the
+**Data Science and Artificial Intelligence (Master)** programme at
+FH JOANNEUM:
+
+- [DevOps and MLOps](https://www.fh-joanneum.at/hochschule/person/kurt-klaus-horvath/)
+- [MLOps and Continuous Monitoring](https://www.fh-joanneum.at/hochschule/person/kurt-klaus-horvath/)
+
+The assignments in this repository provide a practical progression from
+basic ML model development through DevOps automation to continuous MLOps
+and model monitoring.
 
 <img width="1013" height="464" alt="overview" src="overview.JPG" />
 The assignments build logically on each other, moving from a simple local ML workflow to
@@ -36,18 +49,3 @@ detects model degradation, retrains, and deploys an updated model.
 **Focus:** MLOps · Monitoring · Drift Detection · Retraining · Quality Gates
 
 ---
-
-## Course Roadmap
-
-```text
-Assignment 1
-Local ML
-   │
-   ▼
-Assignment 2
-Continuous Integration
-   │
-   ▼
-Assignment 3
-Continuous MLOps
-
