@@ -1,3 +1,5 @@
+<img width="800" height="162" alt="image" src="https://github.com/user-attachments/assets/a2bc697d-1856-4059-a004-ad8362a8b7fc" />
+
 # Assignment 1 – Train an ML Model Locally
 
 This folder is the starting point for Assignment 1.
@@ -171,41 +173,7 @@ This creates:
 
 The JSON file contains the evaluation metrics, including accuracy and F1 score.
 
-## Important distinction
 
-Keep these concepts separate:
-
-- **Training data** is used to learn the model.
-- **Test data** is used to evaluate the trained model on previously unseen examples.
-- **The model** contains what was learned during training.
-- **The source code** contains the instructions used to train or apply the model.
-- **Metrics** describe how well the model performs.
-
-The workflow for this assignment is therefore:
-
-    train_A.csv
-         ↓
-    train.py
-         ↓
-    model_A.joblib
-         ↓
-    test_A.csv
-         ↓
-    predict.py
-         ↓
-    evaluation metrics
-
-## Connection to Assignment 3
-
-The same basic ML application is used again in Assignment 3.
-
-In Assignment 1, you perform the workflow manually on your own computer.
-
-In Assignment 2, you learn how to automate software integration using Azure
-DevOps.
-
-In Assignment 3, you will use Azure DevOps to automate and connect the ML
-lifecycle:
 
     Train → Evaluate → Deploy → Monitor → Detect → Retrain → Evaluate → Deploy
 
