@@ -1,3 +1,5 @@
+<img width="800" height="162" alt="image" src="https://github.com/user-attachments/assets/993ed96b-d2c5-4bef-abd7-dc6b81e442b8" />
+
 # Assignment 2 – Continuous Integration with Azure DevOps
 
 Student starter repository.
