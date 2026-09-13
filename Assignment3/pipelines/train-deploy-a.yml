@@ -1,0 +1,20 @@
+# TODO: Implement the initial train-and-deploy workflow.
+#
+# Required stages:
+# 1. Checkout the repository
+# 2. Set up Python 3.12
+# 3. Install requirements
+# 4. Generate the data
+# 5. Run the tests
+# 6. Train Model A
+# 7. Evaluate Model A
+# 8. Run the quality gate
+# 9. Publish the approved model as a pipeline artifact
+#
+# Hint:
+# The supplied reference application uses:
+#   python -m app.train
+#   python -m app.predict
+# and the quality gate is in scripts/quality_gate.py.
+#
+# The artifact should contain the trained model and its metrics.

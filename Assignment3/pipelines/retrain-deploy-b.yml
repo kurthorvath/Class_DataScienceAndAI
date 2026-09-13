@@ -1,0 +1,14 @@
+# TODO: Implement the retraining-and-deploy workflow.
+#
+# Required stages:
+# 1. Checkout the repository
+# 2. Set up Python 3.12
+# 3. Install requirements
+# 4. Generate/prepare retraining data
+# 5. Train Model B using data/train_AB.csv
+# 6. Evaluate Model B using data/test_C.csv
+# 7. Run the quality gate
+# 8. Publish Model B only when the quality gate passes
+#
+# The retraining workflow is started automatically by the drift-monitoring
+# workflow when degraded performance is detected.

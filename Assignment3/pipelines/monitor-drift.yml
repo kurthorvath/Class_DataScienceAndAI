@@ -1,0 +1,21 @@
+# TODO: Implement monitoring on changed production data.
+#
+# Required stages:
+# 1. Checkout the repository
+# 2. Set up Python 3.12
+# 3. Install requirements
+# 4. Download the currently deployed model artifact
+# 5. Generate/prepare production data
+# 6. Evaluate the model on data/test_B.csv
+# 7. Run scripts/check_drift.py
+# 8. Handle exit code 10 as an expected "DRIFT DETECTED" result
+# 9. Store whether drift was detected in an Azure DevOps pipeline variable
+# 10. Trigger the retraining pipeline only when drift was detected
+#
+# Important:
+# DRIFT DETECTED must NOT simply make the monitoring pipeline fail.
+# The drift detector uses exit code 10 to communicate this condition.
+#
+# Hint:
+# Azure DevOps logging commands can create pipeline variables.
+# The Azure DevOps CLI can be used to start another pipeline.
