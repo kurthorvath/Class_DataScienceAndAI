@@ -2,8 +2,11 @@
 
 This repository contains the assignments for the **Data Science and AI** course.
 
-The assignments build on each other, moving from a simple local ML workflow to
+
+The assignments build logically on each other, moving from a simple local ML workflow to
 automated software development and finally to a continuous MLOps lifecycle.
+However, each assignment comes with a full set of code to perform it.
+
 
 ## Assignments
 
