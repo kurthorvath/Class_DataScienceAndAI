@@ -49,3 +49,13 @@ detects model degradation, retrains, and deploys an updated model.
 **Focus:** MLOps · Monitoring · Drift Detection · Retraining · Quality Gates
 
 ---
+
+## Contact Lecturer
+
+**Univ.-Ass. DI Dr.techn. Kurt Klaus Horvath, BSc**  
+Email: kurt.horvath@fh-joanneum.at  
+Email: kurt.horvath@aau.at  
+Email: kurtklaus.horvath@gmail.com
+
+Website: https://www.itec.aau.at/~kurt/
+
