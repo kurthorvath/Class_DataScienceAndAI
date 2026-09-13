@@ -1,3 +1,5 @@
+<img width="800" height="162" alt="image" src="https://github.com/user-attachments/assets/80624e66-9ad9-4478-a6a7-f67b0af744f4" />
+
 # Assignment 3 – Continuous MLOps with Azure DevOps
 
 This folder is the **student starting point** for Assignment 3.
